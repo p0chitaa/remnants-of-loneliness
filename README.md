@@ -1,2 +1,2 @@
 # remnants-of-loneliness
-a mod for terraria (calamity?)
+an addon for calamity and wrath of the gods
